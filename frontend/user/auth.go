@@ -9,10 +9,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/golang/glog"
 
-	"github.com/aiyi/go-user/frontend/errors"
-	"github.com/aiyi/go-user/frontend/session"
-	"github.com/aiyi/go-user/frontend/token"
-	"github.com/aiyi/go-user/model"
+	"github.com/chanxuehong/go-user/frontend/errors"
+	"github.com/chanxuehong/go-user/frontend/session"
+	"github.com/chanxuehong/go-user/frontend/token"
+	"github.com/chanxuehong/go-user/model"
 )
 
 // 认证, 获取token.

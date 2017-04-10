@@ -3,8 +3,8 @@ package model
 import (
 	"time"
 
-	"github.com/aiyi/go-user/db"
-	"github.com/aiyi/go-user/userid"
+	"github.com/chanxuehong/go-user/db"
+	"github.com/chanxuehong/go-user/userid"
 )
 
 // 通过 微信 注册一个账户.

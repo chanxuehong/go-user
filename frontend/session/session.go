@@ -6,8 +6,8 @@ import (
 
 	"github.com/bradfitz/gomemcache/memcache"
 
-	"github.com/aiyi/go-user/frontend/errors"
-	"github.com/aiyi/go-user/mc"
+	"github.com/chanxuehong/go-user/frontend/errors"
+	"github.com/chanxuehong/go-user/mc"
 )
 
 const CheckCodeMaxTimes = 3 // 校验码最多可以校验多少次

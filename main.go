@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/aiyi/go-user/frontend"
+	"github.com/chanxuehong/go-user/frontend"
 )
 
 func main() {

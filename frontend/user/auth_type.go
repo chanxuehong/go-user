@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/aiyi/go-user/frontend/token"
+	"github.com/chanxuehong/go-user/frontend/token"
 )
 
 const (

@@ -3,13 +3,13 @@ package frontend
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/aiyi/go-user/frontend/checkcode"
-	"github.com/aiyi/go-user/frontend/middleware"
-	"github.com/aiyi/go-user/frontend/oauth/wechat/mp"
-	"github.com/aiyi/go-user/frontend/oauth/wechat/open/app"
-	"github.com/aiyi/go-user/frontend/oauth/wechat/open/web"
-	tokenhandler "github.com/aiyi/go-user/frontend/token/handler"
-	"github.com/aiyi/go-user/frontend/user"
+	"github.com/chanxuehong/go-user/frontend/checkcode"
+	"github.com/chanxuehong/go-user/frontend/middleware"
+	"github.com/chanxuehong/go-user/frontend/oauth/wechat/mp"
+	"github.com/chanxuehong/go-user/frontend/oauth/wechat/open/app"
+	"github.com/chanxuehong/go-user/frontend/oauth/wechat/open/web"
+	tokenhandler "github.com/chanxuehong/go-user/frontend/token/handler"
+	"github.com/chanxuehong/go-user/frontend/user"
 )
 
 var Engine *gin.Engine

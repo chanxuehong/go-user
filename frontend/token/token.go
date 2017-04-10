@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/aiyi/go-user/model"
-	"github.com/aiyi/go-user/securitykey"
+	"github.com/chanxuehong/go-user/model"
+	"github.com/chanxuehong/go-user/securitykey"
 )
 
 const (

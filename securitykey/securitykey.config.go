@@ -3,7 +3,7 @@ package securitykey
 import (
 	"errors"
 
-	"github.com/aiyi/go-user/config"
+	"github.com/chanxuehong/go-user/config"
 )
 
 // 从私密存储上获取安全key

@@ -8,10 +8,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/golang/glog"
 
-	"github.com/aiyi/go-user/config"
-	"github.com/aiyi/go-user/frontend/errors"
-	"github.com/aiyi/go-user/frontend/session"
-	"github.com/aiyi/go-user/frontend/token"
+	"github.com/chanxuehong/go-user/config"
+	"github.com/chanxuehong/go-user/frontend/errors"
+	"github.com/chanxuehong/go-user/frontend/session"
+	"github.com/chanxuehong/go-user/frontend/token"
 )
 
 // 获取微信认证页面的 url
